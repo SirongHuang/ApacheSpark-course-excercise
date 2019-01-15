@@ -1,4 +1,4 @@
-# ApacheSpark-course-excercise
+# Big data platforms ApacheSpark
 
 3 mini data analysis projects using Scala and Apache Spark in the course Big Data Platforms (CS-E4640).
 
