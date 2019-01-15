@@ -7,4 +7,5 @@
 - Build machine learning model using Spark Mllib library
 
 The data is downloaded by initializing or build sbt. 
-PS: <br> The questions and data are provided by course staff, the functions are implemented by me. 
+
+PS: The questions and data are provided by course staff, the functions are implemented by me. 
