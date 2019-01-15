@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/rongmac/DataScience/Scala/rdd/src/main/resources/coutrycodes.csv,/Users/rongmac/DataScience/Scala/rdd/target/scala-2.10/classes/coutrycodes.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rongmac/DataScience/Scala/rdd/src/main/resources/socialgraph.dat,/Users/rongmac/DataScience/Scala/rdd/target/scala-2.10/classes/socialgraph.dat)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rongmac/DataScience/Scala/rdd/src/main/resources/allCountries.txt,/Users/rongmac/DataScience/Scala/rdd/target/scala-2.10/classes/allCountries.txt)[0m
